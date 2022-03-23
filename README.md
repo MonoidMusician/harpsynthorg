@@ -1,5 +1,9 @@
 Experimenting with a harpsichord-like synthesizer in Max/MSP, performing Royer's Le Vertigo.
 
+[YouTube](https://youtu.be/05AL-Oq3e2Y)
+
+[Soundcloud](https://soundcloud.com/violonscheelist/le-vertigo)
+
 This project was in large part inspired by the fabulous recording of [Jean Rondeau](https://youtu.be/DzxlMfUzqIM), which I highly recommend watching since the sound quality, performance, and videography put my attempts to shame.
 
 <img src="https://raw.githubusercontent.com/MonoidMusician/harpsynthorg/main/Le%20Vertigo.png" alt="Orange Le Vertigo logo with white text over a dark orange textured circle" width="300">
