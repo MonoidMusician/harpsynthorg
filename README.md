@@ -2,7 +2,7 @@ Experimenting with a harpsichord-like synthesizer in Max/MSP, performing Royer's
 
 This project was in large part inspired by the fabulous recording of [Jean Rondeau](https://youtu.be/DzxlMfUzqIM), which I highly recommend watching since the sound quality, performance, and videography put my attempts to shame.
 
-![Orange Le Vertigo logo with white text over a dark orange textured circle](https://raw.githubusercontent.com/MonoidMusician/harpsynthorg/main/Le Vertigo.png)
+<img src="https://raw.githubusercontent.com/MonoidMusician/harpsynthorg/main/Le%20Vertigo.png" alt="Orange Le Vertigo logo with white text over a dark orange textured circle" width="300">
 
 ## Instrument
 
